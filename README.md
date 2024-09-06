@@ -1,7 +1,9 @@
 # Deployment-and-Integration-of-Wazuh-SIEM
 This assignment is submitted to Bytewsie Cybersecurity fellowship, Sep 2024. The goal of this assignment is to gain hands-on experience with deploying Wazuh SIEM, integrating it with other machines, and creating custom security rules within Wazuh. Additionally, learn to utilize regular expressions for extracting properties from log payloads.
 
-## Objective: The objective of this assignment is to familiarize yourself with the deployment of IBM QRadar, the integration of Ubuntu and Windows 10 machines, and the creation of custom security rules. You will also gain hands-on experience with regular expressions by extracting properties from a selected payload.
+## Objective:
+
+The objective of this assignment is to familiarize yourself with the deployment of IBM QRadar, the integration of Ubuntu and Windows 10 machines, and the creation of custom security rules. You will also gain hands-on experience with regular expressions by extracting properties from a selected payload.
 
 ## Assignment Instructions:
 
