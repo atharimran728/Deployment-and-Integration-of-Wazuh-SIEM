@@ -44,7 +44,7 @@ Document the regular expressions used and the properties extracted.
 
 #### Documentation: Prepare a comprehensive document that includes:
 
-#### Wazuh Deployment Guide:
+### Wazuh Deployment Guide:
 A detailed, step-by-step guide on deploying Wazuh SIEM, including any configuration settings.
 
 #### Integration Process:
