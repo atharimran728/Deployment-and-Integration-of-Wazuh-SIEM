@@ -42,23 +42,4 @@ Use regular expressions to extract relevant properties from the chosen payload. 
 
 Document the regular expressions used and the properties extracted.
 
-#### Documentation: Prepare a comprehensive document that includes:
 
-### Wazuh Deployment Guide:
-A detailed, step-by-step guide on deploying Wazuh SIEM, including any configuration settings.
-
-#### Integration Process:
-Describe the process of integrating Ubuntu and Windows 10 machines with Wazuh SIEM.
-
-Include screenshots of the integration steps and settings.
-#### Custom Rules:
-Explain the logic and configuration of the two custom rules you created.
-
-Include screenshots of the rule configurations in Wazuh.
-
-#### Payload Analysis:
-Provide the details of the selected payload, the regular expressions used for extraction, and the extracted properties.
-
-Include examples of the payload data and the results of your regular expression queries.
-
-Ensure the documentation is clear, well-organized, and professional.
